@@ -1,0 +1,80 @@
+C:\ProgramData\Anaconda3\envs\python37\python.exe C:/Users/Administrator/Desktop/Python/Python-接单项目/TaobaoSimple/start_tmall.py
+点击了选择按钮
+select:select * from urldetials3 where  hashurl="0f97e8e5267874065b204f791196daefe3df2ee0"
+resu_:
+[{'Id': 28, 'hashurl': '0f97e8e5267874065b204f791196daefe3df2ee0', 'detial': 'https://detail.tmall.com/item.htm?id=571457104662&ali_refid=a3_430582_1006:1110171699:N:VqVjqWXmqVatGjha4Wze7g==:592b9f55ae4b3c77a700f2e582e16e23&ali_trackid=1_592b9f55ae4b3c77a700f2e582e16e23&spm=a230r.1.14.11', 'lable': '-Default Lable-', 'creattime': '2019.09.17 15:47:38 '}]
+select:select * from urldetials3 where  hashurl="dc4ebcbb90df52ea1c026d2bb03b26bb9ebb26ed"
+resu_:
+[{'Id': 136, 'hashurl': 'dc4ebcbb90df52ea1c026d2bb03b26bb9ebb26ed', 'detial': 'https://detail.tmall.com/item.htm?spm=a230r.1.14.283.38ff396fWx4siY&id=36664606981&ns=1&abbucket=7', 'lable': 'ee', 'creattime': '2019.10.12 18:16:07 '}]
+select:select * from urldetials3 where  hashurl="fef6a01fc9c899c8a014b1b7d752bd02088af279"
+resu_:
+[{'Id': 137, 'hashurl': 'fef6a01fc9c899c8a014b1b7d752bd02088af279', 'detial': 'https://detail.tmall.com/item.htm?id=591846272112&ali_refid=a3_430582_1006:1217170176:N:VqVjqWXmqVatGjha4Wze7g==:a3c7fd1e915ac5c4fc930757ea8522b2&ali_trackid=1_a3c7fd1e915ac5c4fc930757ea8522b2&spm=a230r.1.14.11', 'lable': '888', 'creattime': '2019.10.12 18:16:07 '}]
+select:select * from urldetials3 where  hashurl="5126e12f2f87d821b982eb78348a3ac23393118b"
+resu_:
+[{'Id': 156, 'hashurl': '5126e12f2f87d821b982eb78348a3ac23393118b', 'detial': 'https://item.taobao.com/item.htm?spm=a230r.1.14.51.38ff396fC94RqK&id=584328942942&ns=1&abbucket=8', 'lable': '这里是新功能新功能哈哈哈哈哈哈', 'creattime': '2019.10.12 19:39:13 '}]
+select:select * from urldetials3 where  hashurl="cf35631bb31a9a0ae60dff645c747ff708dbf6fc"
+resu_:
+[{'Id': 158, 'hashurl': 'cf35631bb31a9a0ae60dff645c747ff708dbf6fc', 'detial': 'https://detail.tmall.com/item.htm?spm=a230r.1.14.101.2a62396fbKVgxt&id=571457104662&ns=1&abbucket=7', 'lable': 'tester2燕窝', 'creattime': '2019.10.12 19:58:21 '}]
+select:select * from urldetials3 where  hashurl="c40406cc03e588952c4803e73b0e7446c74b5878"
+resu_:
+[{'Id': 159, 'hashurl': 'c40406cc03e588952c4803e73b0e7446c74b5878', 'detial': 'https://item.taobao.com/item.htm?spm=a230r.1.14.58.2a62396fbKVgxt&id=558606793310&ns=1&abbucket=7#detail', 'lable': 'test燕窝', 'creattime': '2019.10.12 19:58:21 '}]
+select:select * from urldetials3 where  hashurl="e40c7d4ab863412022430ebdca8e299434e93839"
+resu_:
+[{'Id': 160, 'hashurl': 'e40c7d4ab863412022430ebdca8e299434e93839', 'detial': 'https://detail.tmall.com/item.htm?id=595704332379&ali_refid=a3_430582_1006:1221680005:N:ZCju3J7jyXP87l6Glh0+Ba0aOFrhbN7u:dca83b3d5e72b40a990c1f8209b2201b&ali_trackid=1_dca83b3d5e72b40a990c1f8209b2201b&spm=a230r.1.14.1', 'lable': '就看见了就数据库里', 'creattime': '2019.10.12 19:58:21 '}]
+select:select * from urldetials3 where  hashurl="206332c3167561efabf630bb52effcc769e33f61"
+resu_:
+[{'Id': 161, 'hashurl': '206332c3167561efabf630bb52effcc769e33f61', 'detial': 'https://detail.tmall.com/item.htm?spm=a230r.1.14.78.38ff396fpdfljm&id=592908861850&ns=1&abbucket=7', 'lable': '66666666666666666', 'creattime': '2019.10.12 20:03:49 '}]
+self.transaction.urllists:
+['https://detail.tmall.com/item.htm?id=571457104662&ali_refid=a3_430582_1006:1110171699:N:VqVjqWXmqVatGjha4Wze7g==:592b9f55ae4b3c77a700f2e582e16e23&ali_trackid=1_592b9f55ae4b3c77a700f2e582e16e23&spm=a230r.1.14.11', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.283.38ff396fWx4siY&id=36664606981&ns=1&abbucket=7', 'https://detail.tmall.com/item.htm?id=591846272112&ali_refid=a3_430582_1006:1217170176:N:VqVjqWXmqVatGjha4Wze7g==:a3c7fd1e915ac5c4fc930757ea8522b2&ali_trackid=1_a3c7fd1e915ac5c4fc930757ea8522b2&spm=a230r.1.14.11', 'https://item.taobao.com/item.htm?spm=a230r.1.14.51.38ff396fC94RqK&id=584328942942&ns=1&abbucket=8', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.101.2a62396fbKVgxt&id=571457104662&ns=1&abbucket=7', 'https://item.taobao.com/item.htm?spm=a230r.1.14.58.2a62396fbKVgxt&id=558606793310&ns=1&abbucket=7#detail', 'https://detail.tmall.com/item.htm?id=595704332379&ali_refid=a3_430582_1006:1221680005:N:ZCju3J7jyXP87l6Glh0+Ba0aOFrhbN7u:dca83b3d5e72b40a990c1f8209b2201b&ali_trackid=1_dca83b3d5e72b40a990c1f8209b2201b&spm=a230r.1.14.1', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.78.38ff396fpdfljm&id=592908861850&ns=1&abbucket=7']
+urllists:
+['https://detail.tmall.com/item.htm?id=571457104662&ali_refid=a3_430582_1006:1110171699:N:VqVjqWXmqVatGjha4Wze7g==:592b9f55ae4b3c77a700f2e582e16e23&ali_trackid=1_592b9f55ae4b3c77a700f2e582e16e23&spm=a230r.1.14.11', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.78.38ff396fpdfljm&id=592908861850&ns=1&abbucket=7', 'https://detail.tmall.com/item.htm?id=595704332379&ali_refid=a3_430582_1006:1221680005:N:ZCju3J7jyXP87l6Glh0+Ba0aOFrhbN7u:dca83b3d5e72b40a990c1f8209b2201b&ali_trackid=1_dca83b3d5e72b40a990c1f8209b2201b&spm=a230r.1.14.1', 'https://item.taobao.com/item.htm?spm=a230r.1.14.58.2a62396fbKVgxt&id=558606793310&ns=1&abbucket=7#detail', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.101.2a62396fbKVgxt&id=571457104662&ns=1&abbucket=7', 'https://item.taobao.com/item.htm?spm=a230r.1.14.51.38ff396fC94RqK&id=584328942942&ns=1&abbucket=8', 'https://detail.tmall.com/item.htm?id=591846272112&ali_refid=a3_430582_1006:1217170176:N:VqVjqWXmqVatGjha4Wze7g==:a3c7fd1e915ac5c4fc930757ea8522b2&ali_trackid=1_a3c7fd1e915ac5c4fc930757ea8522b2&spm=a230r.1.14.11', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.283.38ff396fWx4siY&id=36664606981&ns=1&abbucket=7']
+本次数据URL:
+[]
+[]
+usingOldData方法中 len(download_urls)!=0 所以执行 downloadqueue.put(1)
+进来了remindok方法，此时 isOkToAnalysize 为：
+False
+downloadqueue获取的值为：  no_download_urls
+进来了remindok方法，此时 isOkToAnalysize 为：
+True
+thread.ident:
+7568
+thread.ident:
+7300
+select:select * from urldetials3 where  hashurl="0f97e8e5267874065b204f791196daefe3df2ee0"
+resu_:
+[{'Id': 28, 'hashurl': '0f97e8e5267874065b204f791196daefe3df2ee0', 'detial': 'https://detail.tmall.com/item.htm?id=571457104662&ali_refid=a3_430582_1006:1110171699:N:VqVjqWXmqVatGjha4Wze7g==:592b9f55ae4b3c77a700f2e582e16e23&ali_trackid=1_592b9f55ae4b3c77a700f2e582e16e23&spm=a230r.1.14.11', 'lable': '-Default Lable-', 'creattime': '2019.09.17 15:47:38 '}]
+select:select * from urldetials3 where  hashurl="206332c3167561efabf630bb52effcc769e33f61"
+resu_:
+[{'Id': 161, 'hashurl': '206332c3167561efabf630bb52effcc769e33f61', 'detial': 'https://detail.tmall.com/item.htm?spm=a230r.1.14.78.38ff396fpdfljm&id=592908861850&ns=1&abbucket=7', 'lable': '66666666666666666', 'creattime': '2019.10.12 20:03:49 '}]
+select:select * from urldetials3 where  hashurl="e40c7d4ab863412022430ebdca8e299434e93839"
+resu_:
+[{'Id': 160, 'hashurl': 'e40c7d4ab863412022430ebdca8e299434e93839', 'detial': 'https://detail.tmall.com/item.htm?id=595704332379&ali_refid=a3_430582_1006:1221680005:N:ZCju3J7jyXP87l6Glh0+Ba0aOFrhbN7u:dca83b3d5e72b40a990c1f8209b2201b&ali_trackid=1_dca83b3d5e72b40a990c1f8209b2201b&spm=a230r.1.14.1', 'lable': '就看见了就数据库里', 'creattime': '2019.10.12 19:58:21 '}]
+select:select * from urldetials3 where  hashurl="c40406cc03e588952c4803e73b0e7446c74b5878"
+resu_:
+[{'Id': 159, 'hashurl': 'c40406cc03e588952c4803e73b0e7446c74b5878', 'detial': 'https://item.taobao.com/item.htm?spm=a230r.1.14.58.2a62396fbKVgxt&id=558606793310&ns=1&abbucket=7#detail', 'lable': 'test燕窝', 'creattime': '2019.10.12 19:58:21 '}]
+select:select * from urldetials3 where  hashurl="cf35631bb31a9a0ae60dff645c747ff708dbf6fc"
+resu_:
+[{'Id': 158, 'hashurl': 'cf35631bb31a9a0ae60dff645c747ff708dbf6fc', 'detial': 'https://detail.tmall.com/item.htm?spm=a230r.1.14.101.2a62396fbKVgxt&id=571457104662&ns=1&abbucket=7', 'lable': 'tester2燕窝', 'creattime': '2019.10.12 19:58:21 '}]
+select:select * from urldetials3 where  hashurl="5126e12f2f87d821b982eb78348a3ac23393118b"
+resu_:
+[{'Id': 156, 'hashurl': '5126e12f2f87d821b982eb78348a3ac23393118b', 'detial': 'https://item.taobao.com/item.htm?spm=a230r.1.14.51.38ff396fC94RqK&id=584328942942&ns=1&abbucket=8', 'lable': '这里是新功能新功能哈哈哈哈哈哈', 'creattime': '2019.10.12 19:39:13 '}]
+select:select * from urldetials3 where  hashurl="fef6a01fc9c899c8a014b1b7d752bd02088af279"
+resu_:
+[{'Id': 137, 'hashurl': 'fef6a01fc9c899c8a014b1b7d752bd02088af279', 'detial': 'https://detail.tmall.com/item.htm?id=591846272112&ali_refid=a3_430582_1006:1217170176:N:VqVjqWXmqVatGjha4Wze7g==:a3c7fd1e915ac5c4fc930757ea8522b2&ali_trackid=1_a3c7fd1e915ac5c4fc930757ea8522b2&spm=a230r.1.14.11', 'lable': '888', 'creattime': '2019.10.12 18:16:07 '}]
+select:select * from urldetials3 where  hashurl="dc4ebcbb90df52ea1c026d2bb03b26bb9ebb26ed"
+resu_:
+[{'Id': 136, 'hashurl': 'dc4ebcbb90df52ea1c026d2bb03b26bb9ebb26ed', 'detial': 'https://detail.tmall.com/item.htm?spm=a230r.1.14.283.38ff396fWx4siY&id=36664606981&ns=1&abbucket=7', 'lable': 'ee', 'creattime': '2019.10.12 18:16:07 '}]
+self.transaction.urllists:
+['https://detail.tmall.com/item.htm?id=571457104662&ali_refid=a3_430582_1006:1110171699:N:VqVjqWXmqVatGjha4Wze7g==:592b9f55ae4b3c77a700f2e582e16e23&ali_trackid=1_592b9f55ae4b3c77a700f2e582e16e23&spm=a230r.1.14.11', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.78.38ff396fpdfljm&id=592908861850&ns=1&abbucket=7', 'https://detail.tmall.com/item.htm?id=595704332379&ali_refid=a3_430582_1006:1221680005:N:ZCju3J7jyXP87l6Glh0+Ba0aOFrhbN7u:dca83b3d5e72b40a990c1f8209b2201b&ali_trackid=1_dca83b3d5e72b40a990c1f8209b2201b&spm=a230r.1.14.1', 'https://item.taobao.com/item.htm?spm=a230r.1.14.58.2a62396fbKVgxt&id=558606793310&ns=1&abbucket=7#detail', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.101.2a62396fbKVgxt&id=571457104662&ns=1&abbucket=7', 'https://item.taobao.com/item.htm?spm=a230r.1.14.51.38ff396fC94RqK&id=584328942942&ns=1&abbucket=8', 'https://detail.tmall.com/item.htm?id=591846272112&ali_refid=a3_430582_1006:1217170176:N:VqVjqWXmqVatGjha4Wze7g==:a3c7fd1e915ac5c4fc930757ea8522b2&ali_trackid=1_a3c7fd1e915ac5c4fc930757ea8522b2&spm=a230r.1.14.11', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.283.38ff396fWx4siY&id=36664606981&ns=1&abbucket=7']
+urllists:
+['https://detail.tmall.com/item.htm?id=571457104662&ali_refid=a3_430582_1006:1110171699:N:VqVjqWXmqVatGjha4Wze7g==:592b9f55ae4b3c77a700f2e582e16e23&ali_trackid=1_592b9f55ae4b3c77a700f2e582e16e23&spm=a230r.1.14.11', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.283.38ff396fWx4siY&id=36664606981&ns=1&abbucket=7', 'https://detail.tmall.com/item.htm?id=591846272112&ali_refid=a3_430582_1006:1217170176:N:VqVjqWXmqVatGjha4Wze7g==:a3c7fd1e915ac5c4fc930757ea8522b2&ali_trackid=1_a3c7fd1e915ac5c4fc930757ea8522b2&spm=a230r.1.14.11', 'https://item.taobao.com/item.htm?spm=a230r.1.14.51.38ff396fC94RqK&id=584328942942&ns=1&abbucket=8', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.101.2a62396fbKVgxt&id=571457104662&ns=1&abbucket=7', 'https://item.taobao.com/item.htm?spm=a230r.1.14.58.2a62396fbKVgxt&id=558606793310&ns=1&abbucket=7#detail', 'https://detail.tmall.com/item.htm?id=595704332379&ali_refid=a3_430582_1006:1221680005:N:ZCju3J7jyXP87l6Glh0+Ba0aOFrhbN7u:dca83b3d5e72b40a990c1f8209b2201b&ali_trackid=1_dca83b3d5e72b40a990c1f8209b2201b&spm=a230r.1.14.1', 'https://detail.tmall.com/item.htm?spm=a230r.1.14.78.38ff396fpdfljm&id=592908861850&ns=1&abbucket=7']
+本次数据URL:
+[]
+[]
+usingOldData方法中 len(download_urls)!=0 所以执行 downloadqueue.put(1)
+downloadqueue获取的值为：  no_download_urls
+进来了remindok方法，此时 isOkToAnalysize 为：
+False
+进来了remindok方法，此时 isOkToAnalysize 为：
+False

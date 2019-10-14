@@ -1,0 +1,12 @@
+#!"/Users/didi/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/b38a561d5429109cfeb234aaee19c788/Message/MessageTemp/ad52ef0e315215b1058f08253520b69e/File/TaobaoSimple/venv/bin/python"
+# EASY-INSTALL-ENTRY-SCRIPT: 'Twisted==19.7.0','console_scripts','twistd'
+__requires__ = 'Twisted==19.7.0'
+import re
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(
+        load_entry_point('Twisted==19.7.0', 'console_scripts', 'twistd')()
+    )
